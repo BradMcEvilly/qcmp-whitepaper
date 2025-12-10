@@ -37,5 +37,3 @@ Feedback welcome on the QCMP framework, metrics (e.g., CCI/NIS thresholds), or q
 ---
 
 *Licensed under CC BY 4.0. © 2025 Brad McEvilly. Built with LaTeX for arXiv.*
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=bradmcevilly&show_icons=true&theme=radical)
