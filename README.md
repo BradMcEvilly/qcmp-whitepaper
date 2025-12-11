@@ -10,6 +10,9 @@ Here's the problem nobody wants to talk about: we're deploying autonomous AI age
 
 **Keywords:** MCP security, memory poisoning, agentic AI, post-quantum cryptography, consciousness metrics
 
+## **Implementation**
+[DeepGuard-MCP](https://github.com/deepsweep-ai/deepguard-mcp)
+
 ## **About the Author**
 
 **Brad McEvilly**  
