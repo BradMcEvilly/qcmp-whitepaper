@@ -2,7 +2,7 @@
 # Quantum-Conscious Memory Protection (QCMP)#
 **Why Your AI Agent's Memory Is the New Attack Surface**
 
-[PDF](https://github.com/BradMcEvilly/qcmp-whitepaper/edit/main/README.md)
+[PDF](https://github.com/bradmcevilly/qcmp-whitepaper/raw/main/QCMP_Whitepaper_arXiv.pdf)
 
 ## **Abstract**
 
