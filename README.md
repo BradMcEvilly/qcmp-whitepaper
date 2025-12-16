@@ -6,7 +6,7 @@
 
 ## **Abstract**
 
-Here's the problem nobody wants to talk about: we're deploying autonomous AI agents at scale, connecting them to everything via MCP, and their memory systems are wide open. MINJA hits **98.2% injection success** using nothing but normal queries. AgentPoison needs less than 0.1% poisoned data to backdoor an agent with 80%+ reliability. I've spent the last year pulling threads from quantum biology, consciousness theory, and cryptography to build something different. Not another detection layer. A protection architecture that treats memory integrity the way we should have from the start—as the cognitive foundation everything else depends on.
+Problem Statement: We're deploying autonomous AI agents at scale, connecting them to everything via MCP, and their memory systems are wide open. MINJA hits **98.2% injection success** using nothing but normal queries. AgentPoison needs less than 0.1% poisoned data to backdoor an agent with 80%+ reliability. I've spent the last year pulling threads from quantum biology, consciousness theory, and cryptography to build something different. Not another detection layer. A protection architecture that treats memory integrity the way we should have from the start—as the cognitive foundation everything else depends on.
 
 **Keywords:** MCP security, memory poisoning, agentic AI, post-quantum cryptography, consciousness metrics
 
